@@ -1,0 +1,6 @@
+framework module Pods_XTMarketKit_Tests {
+  umbrella header "Pods-XTMarketKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

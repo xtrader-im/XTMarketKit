@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XTMarketKit_Example' do
+  pod 'XTMarketKit', :path => '../'
+
+  target 'XTMarketKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

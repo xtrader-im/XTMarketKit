@@ -1,0 +1,6 @@
+framework module XTMarketKit {
+  umbrella header "XTMarketKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - XTMarketKit (0.1.0)
+
+DEPENDENCIES:
+  - XTMarketKit (from `../`)
+
+EXTERNAL SOURCES:
+  XTMarketKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  XTMarketKit: 63c9c81e91f78d78eaadf370b7244cac6d441338
+
+PODFILE CHECKSUM: 4ed28969826b4e9cdf102e6961d58e2789dc1edf
+
+COCOAPODS: 1.1.1
